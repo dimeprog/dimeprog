@@ -1,7 +1,7 @@
 # Hi there, I'm Dimeji- aka  dimeprog 👋 
 ## I'm a  Flutter Developer
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3 in flutter development
+- 🥅 2023 Goals: Learn more about web3 in flutter development
 - ⚡ Fun fact: I love to  watch and play football
 
 
