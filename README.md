@@ -10,8 +10,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/DimejiAwoyefa#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/DimejiAwoyefa#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ayomidimeji-awoyefa-b3b106229/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ayomidimeji-awoyefa-b3b106229/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/awoyefa-dimeji-a01494176/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/awoyefa-dimeji-a01494176/)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
