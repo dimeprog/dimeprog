@@ -1,26 +1,45 @@
-# Hi there, I'm Dimeji- aka  dimeprog 👋 
-## I'm a  Flutter Developer
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about web3 in flutter development
-- ⚡ Fun fact: I love to  watch and play football
+<h1 align="left">Hey 👋 Welcome</h1>
 
+###
 
-### Connect with me:
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/DimejiAwoyefa#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/DimejiAwoyefa#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/awoyefa-dimeji-a01494176/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/awoyefa-dimeji-a01494176/)
-&nbsp;&nbsp;
+<p align="left">Hi there, I'm Dimeji 👋</p>
 
-### Languages and Tools:
+###
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Flutter" width="100px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" style="padding-right:50px;"/>]
-[<img align="left" alt="Dart" width="26px" src="https://dart.dev/assets/shared/dart/icon/64.png" style="padding-right:10px;" />]
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<h2 align="left">About me</h2>
 
+###
 
+<p align="left">🌱 I’m currently learning everything 🤣<br>🥅 2023 Goals: Learn more about web3 in flutter development<br>⚡ Fun fact: I love to watch and play foot</p>
 
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
